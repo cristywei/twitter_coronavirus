@@ -1,0 +1,732 @@
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
+usage: map.py [-h] --input_path INPUT_PATH [--output_folder OUTPUT_FOLDER]
+map.py: error: the following arguments are required: --input_path
