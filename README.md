@@ -10,22 +10,13 @@
 
 Approximately 500 million tweets are sent everyday.
 Of those tweets, about 1% are *geotagged* with the user's location information about where the tweets were sent from.
-Drawing from a dataset containing approximately 1.1 billion tweets sent in 2020, I used the [MapReduce](https://en.wikipedia.org/wiki/MapReduce) procedure to analyze the tweets.
-
-n total, there are about 1.1 billion tweets in this dataset.
-The tweets are stored as follows.
-The tweets for each day are stored in a zip file `geoTwitterYY-MM-DD.zip`,
-and inside this zip file are 24 text files, one for each hour of the day.
-Each text file contains a single tweet per line in JSON format.
-JSON is a popular format for storing data that is closely related to python dictionaries.
-MapReduce is a famous procedure for large scale parallel processing that is widely used in industry.
-It is a 3 step procedure summarized in the following image:
+I drew from a dataset that contained approximately 1.1 billion tweets, divided up into 366 zip files containing tweets in JSON format. I then used the [MapReduce](https://en.wikipedia.org/wiki/MapReduce) procedure to analyze the tweets.
 
 <img src=mapreduce.png width=100% />
 
 ## Process
 
-1. Modified map.py to track the usage of hashtags on both a country and language level.
+1. Modified map.py to track the usage of hashtags on both a country and language level, creating `.lang` and `.country` files displaying the number of occurrences of certain hashtags in each country and language.
 
 1. Created a shell script `run_maps.sh` to run map.py on each zip file in the dataset.
     These files were sent to the `outputs` folder.
@@ -33,7 +24,7 @@ It is a 3 step procedure summarized in the following image:
 1. Reduced all .lang files into a single file `reduced.lang`, and reduced all .country files into a single file `reduced.county`.
 
 1. Using visualize.py on `reduced.lang` and `reduced.country`, created files counting the usage of certain hashtags.
-    These files were sent to the `viz` filder.
+    These files were sent to the `viz` folder.
 
 ## Results
 
